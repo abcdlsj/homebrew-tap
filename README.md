@@ -6,8 +6,9 @@ Personal Homebrew tap for `abcdlsj`'s apps (casks).
 
 ```sh
 brew tap abcdlsj/tap
-brew install --cask kip     # or any other cask under Casks/
-brew upgrade --cask         # upgrade
+brew trust abcdlsj/tap  # Homebrew refuses to load casks from an untrusted third-party tap
+brew install --cask kip # or any other cask under Casks/
+brew upgrade --cask     # upgrade
 ```
 
 ## Layout
