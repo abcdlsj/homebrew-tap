@@ -19,7 +19,7 @@ cask "kip" do
   desc "Quiet, cross-platform desktop coding agent built with Electrobun and Pi"
   homepage "https://github.com/abcdlsj/kip"
 
-  depends_on :macos
+  depends_on macos: :monterey
 
   app "Kip.app"
 
