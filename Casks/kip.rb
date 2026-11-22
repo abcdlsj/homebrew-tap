@@ -2,15 +2,15 @@
 # frozen_string_literal: true
 
 cask "kip" do
-  version "0.2.15"
+  version "0.2.16"
 
   on_arm do
-    sha256 "d50c38731956b481c681bd9bef3878edf112a688ff71541a4fef61a54ea41931"
+    sha256 "8b9af0f5eb5a566d24cdafe5f319d4e3acef162745493b1ebac39d4804fc7cbd"
 
     url "https://github.com/abcdlsj/kip/releases/download/v#{version}/stable-macos-arm64-Kip.dmg"
   end
   on_intel do
-    sha256 "4581f127bd3190347b5d3591373d9b1defe643bc38f3e0a94a7feef8f09a06ee"
+    sha256 "5956620166a2c13469552a5ee71a39818700c68072a383e20dbad8930239014e"
 
     url "https://github.com/abcdlsj/kip/releases/download/v#{version}/stable-macos-x64-Kip.dmg"
   end
