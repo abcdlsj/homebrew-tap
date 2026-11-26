@@ -11,7 +11,7 @@ cask "eave" do
   desc "Native macOS menu bar manager with Notch integration"
   homepage "https://github.com/abcdlsj/eave"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Eave.app"
 
