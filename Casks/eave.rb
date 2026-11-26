@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "eave" do
-  version "0.1.0"
-  sha256 "182bc66b0c0dec1d20bc5d2a3b54589ad2b9b49bcc1b64618bba3b2c0596134e"
+  version "0.2.0"
+  sha256 "c752a650af39aa1c74f2f2b6f6f00d2eb3b79882eff29014fc2455f3ce613421"
 
   url "https://github.com/abcdlsj/eave/releases/download/v#{version}/eave_#{version}_darwin_universal.dmg"
   name "Eave"
