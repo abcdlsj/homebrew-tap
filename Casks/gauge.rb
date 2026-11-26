@@ -3,7 +3,6 @@
 
 cask "gauge" do
   version "0.9.1"
-
   sha256 "250de0e2f2c1e9de3d07d6c8932a0165e45e2f4a23048319f14aacef7d3e18fa"
 
   url "https://github.com/abcdlsj/gauge/releases/download/v#{version}/Gauge-#{version}-macos-universal.dmg"

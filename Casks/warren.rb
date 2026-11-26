@@ -3,7 +3,6 @@
 
 cask "warren" do
   version "0.44.0"
-
   sha256 "0e02a400d605248850cd3d5ce30544e043d6faad6a5b436779e9bb03e0b9c612"
 
   url "https://github.com/abcdlsj/warren/releases/download/v#{version}/Warren-#{version}.dmg"
