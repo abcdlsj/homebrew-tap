@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "gaze" do
-  version "0.2.2"
-  sha256 "d4540f6cd1fec2c46a2094531d6a22097f0eb93bc684705cef63b4132770259f"
+  version "0.2.5"
+  sha256 "9d47af84e15d3b5bad52da308c43cfc8fb7e542b592267243ff05dd5e33ffa0c"
 
   url "https://github.com/abcdlsj/gaze/releases/download/v#{version}/gaze_#{version}_darwin_universal.dmg"
   name "Gaze"
