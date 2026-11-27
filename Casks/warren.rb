@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "warren" do
-  version "0.44.0"
-  sha256 "0e02a400d605248850cd3d5ce30544e043d6faad6a5b436779e9bb03e0b9c612"
+  version "0.45.0"
+  sha256 "a2f68e6e837cf614760ee10e9beb180ff210cad8ffe50992758a9d86abbce3a4"
 
   url "https://github.com/abcdlsj/warren/releases/download/v#{version}/Warren-#{version}.dmg"
   name "Warren"
