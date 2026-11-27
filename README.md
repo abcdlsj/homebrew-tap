@@ -25,9 +25,9 @@ brew upgrade --cask               # casks
 | `drun` | formula | 0.5.0 | Refresh a Docker container with the latest image, keeping its runtime config |
 | `ember` | formula | 0.1.0 | Terminal-first Emby client with mpv playback and remote sync |
 | `weft` | formula | 0.7.4 | Single-binary ingress that fronts your local services behind one port |
-| `eave` | cask | 0.2.0 | Native menu bar manager with Notch integration |
+| `eave` | cask | 0.3.0 | Native menu bar manager with Notch integration |
 | `gauge` | cask | 0.9.1 | Menu bar dashboard for Gemini and Google Cloud quota and spend |
-| `gaze` | cask | 0.2.2 | Fast screenshot, scrolling capture and annotation tool |
+| `gaze` | cask | 0.2.5 | Fast screenshot, scrolling capture and annotation tool |
 | `hark` | cask | 0.2.0 | Local-first API workbench for humans and agents |
 | `kip` | cask | 0.2.18 | Quiet, cross-platform desktop coding agent built with Electrobun and Pi |
 | `sumi` | cask | 6.0.6 | Self-hosted team chat where AI agents work as teammates |
