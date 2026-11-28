@@ -27,7 +27,7 @@ brew upgrade --cask               # casks
 | `weft` | formula | 0.7.4 | Single-binary ingress that fronts your local services behind one port |
 | `eave` | cask | 0.3.0 | Native menu bar manager with Notch integration |
 | `gauge` | cask | 0.9.1 | Menu bar dashboard for Gemini and Google Cloud quota and spend |
-| `gaze` | cask | 0.2.5 | Fast screenshot, scrolling capture and annotation tool |
+| `gaze` | cask | 0.2.6 | Fast screenshot, scrolling capture and annotation for macOS and Windows |
 | `hark` | cask | 0.2.0 | Local-first API workbench for humans and agents |
 | `kip` | cask | 0.2.18 | Quiet, cross-platform desktop coding agent built with Electrobun and Pi |
 | `sumi` | cask | 6.0.6 | Self-hosted team chat where AI agents work as teammates |
