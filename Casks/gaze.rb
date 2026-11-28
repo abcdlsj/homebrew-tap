@@ -2,12 +2,13 @@
 # frozen_string_literal: true
 
 cask "gaze" do
-  version "0.2.5"
-  sha256 "9d47af84e15d3b5bad52da308c43cfc8fb7e542b592267243ff05dd5e33ffa0c"
+  version "0.2.6"
+
+  sha256 "c2360027cd6486ba1770d525dda8aea79266ee333cc6ae4514157d884824a5ab"
 
   url "https://github.com/abcdlsj/gaze/releases/download/v#{version}/gaze_#{version}_darwin_universal.dmg"
   name "Gaze"
-  desc "Fast screenshot, scrolling capture and annotation tool"
+  desc "Fast screenshot, scrolling capture and annotation for macOS and Windows"
   homepage "https://github.com/abcdlsj/gaze"
 
   depends_on macos: :monterey
