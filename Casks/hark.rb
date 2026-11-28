@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "hark" do
-  version "0.2.0"
-  sha256 "276c83c9ce103b684597a1d61c717e6d7a14d11f66d3fec67d418c77a85a3abc"
+  version "0.2.1"
+  sha256 "30d112d90997ae80d84af10cedceae43b14db1c4e932afbebafe767ea8501344"
 
   url "https://github.com/abcdlsj/hark/releases/download/v#{version}/hark_#{version}_darwin_universal.dmg"
   name "Hark"

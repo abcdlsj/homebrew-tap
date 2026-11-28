@@ -2,15 +2,15 @@
 # frozen_string_literal: true
 
 cask "sumi" do
-  version "6.0.6"
+  version "6.0.8"
 
   on_arm do
-    sha256 "4d35a98d062c4b184da6ef2f1bbcf96bd91614ad8ffc513b5e159e663f1df66b"
+    sha256 "8e9b201a9db86746759ea21079c50f83aae29375a18c33b6f9c12cd271c36a79"
 
     url "https://github.com/abcdlsj/sumi/releases/download/v#{version}/Sumi-#{version}-aarch64-apple-darwin.app.zip"
   end
   on_intel do
-    sha256 "c1fd6f5aa203cd385f5cd20d69499afe9b60f0270c95711875ddc20d9feb0b86"
+    sha256 "585d60030a0a1ecad1868ac627906535d72f5c4cd8612d915aa683591db155f5"
 
     url "https://github.com/abcdlsj/sumi/releases/download/v#{version}/Sumi-#{version}-x86_64-apple-darwin.app.zip"
   end
